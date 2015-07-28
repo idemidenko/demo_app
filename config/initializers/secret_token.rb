@@ -1,0 +1,1 @@
+DemoApp::Application.config.secret_key_base = '603175fe676ce604567ccfc7b38a8f4142039cf0fa39793a1f18291da37fbfd54a6edc8e32ee37ccf3653e479628e790446f9f19ed3ff87ce8289ec31a950ec1'
